@@ -1,4 +1,10 @@
-<img src="gif.gif" alt="Welcome Banner" width="100%" />
+<img 
+  src="gif.gif" 
+  alt="Welcome Banner" 
+  width="100%" 
+  style="border-radius:20px;" 
+/>
+
 # 👋 Hi, I'm Md Shale Newaj
 
 **Junior Full Stack Developer | MERN Stack | Backend-Focused Developer**
