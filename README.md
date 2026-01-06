@@ -1,9 +1,7 @@
-<img 
-  src="gif.gif" 
-  alt="Welcome Banner" 
-  width="100%" 
-  style="border-radius:20px;" 
-/>
+<div style="overflow:hidden border-radius:16px">
+  <img src="gif.gif" alt="Welcome Banner" width="100%" />
+</div>
+
 
 # 👋 Hi, I'm Md Shale Newaj
 
