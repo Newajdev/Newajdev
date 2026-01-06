@@ -1,10 +1,83 @@
 <img src="linkedin-banner.png" alt="Welcome Banner" width="100%" />
-# 💫 About Me:
+# 👋 Hi, I'm Md Shale Newaj
 
-Hi there 👋  <br>I'm Newaj, a passionate Junior MERN Stack Developer who loves building responsive, dynamic, and user-friendly web applications. I specialize in turning Figma designs into fully functional apps using MongoDB, Express.js, React.js, and Node.js.  <br><br><br>💻 Tech Stack  <br>- 💡 Front-End: HTML, CSS, JavaScript, React.js  <br>- ⚙️ Back-End: Node.js, Express.js  <br>- 🛢️ Database: MongoDB  <br>- 🎨 Design to Code: Figma to React  <br>- 🔧 Tools: Git, GitHub, VS Code, Postman, Netlify, Vercel<br><br><br>📚 Currently Learning  <br>- TypeScript  <br>- Next.js  <br>- React Native for Mobile Apps<br>- Advanced React Patterns  <br><br>
+🚀 **Junior Full Stack Developer | MERN Stack | Backend-Focused Developer**
 
+I’m a passionate software developer who enjoys building scalable, high-performance web applications that solve real-world problems. I love working with modern JavaScript technologies and continuously improving my skills through hands-on projects.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammadshalenewaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-newaj/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:newaj.gra@gmail.com) 
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on **full-stack web applications**
+- 🌱 Learning advanced **backend architecture & system design**
+- 💡 Interested in **API development, databases, and performance optimization**
+- 🤝 Open to collaborating on **open-source and real-world projects**
+- 📍 Based in **Bangladesh**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- React.js  
+- Next.js  
+- HTML5, CSS3  
+- Tailwind CSS  
+- JavaScript (ES6+)
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- RESTful APIs  
+- Authentication (JWT, OAuth basics)
+
+### 🗄️ Database
+- MongoDB  
+- PostgreSQL  
+- MySQL  
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- Vercel  
+- Firebase  
+- Postman  
+- Docker (basic)
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 **Vehicle Rental Management System** – Full database design & backend logic  
+- 🔹 **AI Phone Assistant Dashboard** – Role-based admin & staff dashboard  
+- 🔹 **React Native Utility Apps** – Offline-first mobile applications  
+
+👉 *More projects available in my repositories*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **newaj.gra@gmail.com**
+- 💼 LinkedIn: *Add your LinkedIn link here*
+- 🌐 Portfolio: *Add your portfolio website (if available)*
+
+---
+
+## ⚡ Fun Fact
+
+> I believe **clean code + clear logic** can solve almost any problem 🚀
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
+
 
 
