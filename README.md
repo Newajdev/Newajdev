@@ -1,4 +1,4 @@
-<img src="linkedin-banner.png" alt="Welcome Banner" width="100%" />
+<img src="gif.gif" alt="Welcome Banner" width="100%" />
 # 👋 Hi, I'm Md Shale Newaj
 
 **Junior Full Stack Developer | MERN Stack | Backend-Focused Developer**
