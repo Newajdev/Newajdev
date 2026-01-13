@@ -3,7 +3,7 @@
 </div>
 
 
-# 👋 Hi, I'm Md Shale Newaj
+# Hi, I'm Md Shale Newaj
 
 **Junior Full Stack Developer | MERN Stack | PERN Stack| Backend-Focused Developer**
 
