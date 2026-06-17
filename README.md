@@ -32,13 +32,24 @@
 
 <br/>
 
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+<div>
+  <p align="left">
+    <a href="https://linkedin.com/in/touhidur-zaman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
+    <a href="https://discord.gg/touhidcodes#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
+    <a href="https://dev.to/touhidcodes" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="touhidcodes" height="30" width="40" /></a>
+    
+  </p>
+</div>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Currently working on **full-stack web applications**
-- 🌱 Learning advanced **backend architecture & system design**
-- 💡 Interested in **API development, databases, and performance optimization**
+
+##  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZna2Ztd3o2b3BseHExbTh3bWhyYzE0aWdlYWo0cHo4aHo3b2w5MCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/LESpNIDaNBUcRIPzng/giphy.gif" width ="35"><b> TECHNOLOGY STACK:</b>
+
 
 ---
 
