@@ -1,5 +1,5 @@
 <div style="overflow:hidden border-radius:16px">
-  <img src="CoverPhoto.jpg" alt="Welcome Banner" width="100%" />
+  <img src="CoverPhoto.png" alt="Welcome Banner" width="100%" />
 </div>
 
 
