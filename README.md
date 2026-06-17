@@ -14,9 +14,24 @@
 
 
 
-**Junior Full Stack Developer | MERN Stack | PERN Stack| Backend-Focused Developer**
+<br/>
 
-I’m a passionate software developer who enjoys building scalable, high-performance web applications that solve real-world problems. I love working with modern JavaScript technologies and continuously improving my skills through hands-on projects.
+<!--- about --->
+
+* 👋 Hi, I’m **[@Newajdev](newaj.vercel.app)**
+* 🚀 Full Stack Developer passionate about building **SaaS platforms, AI automation systems, and scalable web applications**.
+* 🖥️ Frontend expertise in **Next.js, React.js, TypeScript, JavaScript, Tailwind CSS, Zustand, and Framer Motion**.
+* ⚙️ Backend development with **Node.js, Express.js, PostgreSQL, Prisma ORM, MongoDB, Mongoose, and REST APIs**.
+* 🤖 Building **AI-powered applications, intelligent workflows, chatbot systems, and business automation solutions**.
+* 🐳 Working with **Docker, Git, GitHub, Vercel, Railway, and modern deployment workflows**.
+* 🌱 Currently exploring **Go (Golang), Microservices Architecture, Advanced System Design, and AI Engineering**.
+* 💬 Ask me about **Full-Stack Development, Next.js, Node.js, PostgreSQL, Prisma, SaaS Development, and AI Automation**.
+* 🌐 Explore my projects on **GitHub**.
+* 📝 I regularly share insights about **Software Engineering, SaaS Development, AI Automation, and Web Technologies**.
+* 📫 Reach me at **[Email](mailto:newaj.gra@gmail.com)**
+
+<br/>
+
 
 ---
 
