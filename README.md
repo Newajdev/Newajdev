@@ -18,7 +18,7 @@
 
 <!--- about --->
 
-* 👋 Hi, I’m **[@Newajdev](newaj.vercel.app)**
+* 👋 Hi, I’m **[@Newajdev](https://newaj.vercel.app)**
 * 🚀 Full Stack Developer passionate about building **SaaS platforms, AI automation systems, and scalable web applications**.
 * 🖥️ Frontend expertise in **Next.js, React.js, TypeScript, JavaScript, Tailwind CSS, Zustand, and Framer Motion**.
 * ⚙️ Backend development with **Node.js, Express.js, PostgreSQL, Prisma ORM, MongoDB, Mongoose, and REST APIs**.
