@@ -1,5 +1,5 @@
 <div style="overflow:hidden border-radius:16px">
-  <img src="gif.gif" alt="Welcome Banner" width="100%" />
+  <img src="CoverPhoto.jpg" alt="Welcome Banner" width="100%" />
 </div>
 
 
