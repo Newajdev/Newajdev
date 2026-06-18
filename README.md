@@ -59,7 +59,7 @@
 [![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/newajdev)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman,docker)](https://github.com/touhidcodes)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman,docker)](https://github.com/newajdev)
 
 <br/>
 
