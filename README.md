@@ -13,17 +13,22 @@
 
 <!--- about --->
 
-* 👋 Hi, I’m **[@Newajdev](https://newaj.vercel.app)**
-* 🚀 Full Stack Developer passionate about building **SaaS platforms, AI automation systems, and scalable web applications**.
-* 🖥️ Frontend expertise in **Next.js, React.js, TypeScript, JavaScript, Tailwind CSS, Zustand, and Framer Motion**.
-* ⚙️ Backend development with **Node.js, Express.js, PostgreSQL, Prisma ORM, MongoDB, Mongoose, and REST APIs**.
-* 🤖 Building **AI-powered applications, intelligent workflows, chatbot systems, and business automation solutions**.
-* 🐳 Working with **Docker, Git, GitHub, Vercel, Railway, and modern deployment workflows**.
-* 🌱 Currently exploring **Go (Golang), Microservices Architecture, Advanced System Design, and AI Engineering**.
-* 💬 Ask me about **Full-Stack Development, Next.js, Node.js, PostgreSQL, Prisma, SaaS Development, and AI Automation**.
-* 🌐 Explore my projects on **GitHub**.
-* 📝 I regularly share insights about **Software Engineering, SaaS Development, AI Automation, and Web Technologies**.
+<br/>
+
+## 🚀 About Me
+
+* 👋 I'm **[Md Shale Newaj](https://newaj.vercel.app)** — a Full-Stack Developer passionate about building scalable software products.
+* 💼 Specialized in **Next.js, React.js, Node.js, PostgreSQL, Prisma, and TypeScript**.
+* 🏗️ Experienced in developing **SaaS platforms, Admin Dashboards, Business Management Systems, and AI-powered applications**.
+* 🤖 Building intelligent solutions with **AI Automation, Chatbots, Workflow Automation, and OpenAI integrations**.
+* ⚡ Strong focus on **Clean Architecture, Performance Optimization, API Design, and Scalable System Development**.
+* 🐳 Working with modern development tools including **Docker, Git, GitHub, Vercel, Railway, PostgreSQL, and MongoDB**.
+* 🌱 Currently exploring **Golang, Microservices, System Design, and AI Engineering**.
+* 💬 Ask me about **Full-Stack Development, SaaS Architecture, Backend Systems, and AI Automation**.
 * 📫 Reach me at **[Email](mailto:newaj.gra@gmail.com)**
+
+<br/>
+
 
 <br/>
 
@@ -67,11 +72,6 @@
 
 <br/>
 
-<!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
-
-### GitHub Contributions:
-![Snake Grid](https://github.com/newajdev/contribution-snake/blob/output/grid.svg)
 
 
 ### GitHub Statistics:
@@ -79,20 +79,17 @@
 | ------------- | ------------- |
 
 ### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=newajdev&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=newajdev" /></a> |
-| ------------- | ------------- |
+<a><img align="center" src="https://streak-stats.demolab.com/?user=newajdev" /></a>
+
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+![Snake Grid](https://github.com/newajdev/contribution-snake/blob/output/grid.svg)
 
 <br/>
 
-<!--- random quote --->
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
-
 ---
-
-<!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newajdev&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
-
 
 ## ⚡ Fun Fact
 
@@ -101,9 +98,3 @@
 ---
 
 ⭐ *If you like my work, consider starring my repositories!*
-
-
-
-
-
-
