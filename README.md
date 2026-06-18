@@ -4,12 +4,19 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Developer;AI-Driven+Software+Engineer" alt="Typing SVG" />
   </a>
+<br/>
+<br/>
+  <p align="center">
+    <a href="mailto:newaj.gra@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="newajdev" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/newajdev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="newajdev" height="30" width="40" /></a>
+    <a href="https://discord.com/users/1079276132785987744" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="newajdev" height="30" width="40" /></a>
+    <a href="https://dev.to/newajdev" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="newajdev" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/muhammadshalenewaj" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" alt="newajdev" height="30" width="40" /></a>
+    
+  </p>
+    
 </ul>
 </div>
-
-
-
-<br/>
 
 <!--- about --->
 
@@ -28,22 +35,6 @@
 * 📫 Reach me at **[Email](mailto:newaj.gra@gmail.com)**
 
 <br/>
-
-
-<br/>
-
-<!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
-<div>
-  <p align="left">
-    <a href="mailto:newaj.gra@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="newajdev" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/newajdev" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="newajdev" height="30" width="40" /></a>
-    <a href="https://discord.com/users/1079276132785987744" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="newajdev" height="30" width="40" /></a>
-    <a href="https://dev.to/newajdev" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="newajdev" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/muhammadshalenewaj" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" alt="newajdev" height="30" width="40" /></a>
-    
-  </p>
-</div>
 
 
 <!--- technology --->
@@ -71,7 +62,6 @@
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman,docker)](https://github.com/touhidcodes)
 
 <br/>
-
 
 
 ### GitHub Statistics:
