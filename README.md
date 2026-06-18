@@ -41,7 +41,7 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/newajdev)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,go)](https://github.com/newajdev)
 
 ### CSS Frameworks & Libraries:
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/newajdev)
