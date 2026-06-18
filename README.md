@@ -65,8 +65,8 @@
 
 
 ### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=newajdev&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newajdev&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=newajdev&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newajdev&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
+
 
 ### Repository Stats & Streak:
 <a><img align="center" src="https://streak-stats.demolab.com/?user=newajdev" /></a>
