@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-* 👋 I'm **[Md Shale Newaj](https://newaj.vercel.app)** — a Full-Stack Developer passionate about building scalable software products.
+* 👋 I'm **[Md Shale Newaj](https://newaj.vercel.app)** - a Full-Stack Developer passionate about building scalable software products.
 * 💼 Specialized in **Next.js, React.js, Node.js, PostgreSQL, Prisma, and TypeScript**.
 * 🏗️ Experienced in developing **SaaS platforms, Admin Dashboards, Business Management Systems, and AI-powered applications**.
 * 🤖 Building intelligent solutions with **AI Automation, Chatbots, Workflow Automation, and OpenAI integrations**.
